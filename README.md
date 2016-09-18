@@ -4,7 +4,7 @@
 
 Exercice_01   [First attempt to Computational Physics](https://www.zybuluo.com/mdeditor#498633)
 
-Exercice_02   [TBD](https://www.zybuluo.com/mdeditor#498633)
+Exercice_02   [Print your name ](https://github.com/vakie/homework1/blob/master/README.md)
 
 Exercice_03   [TBD](https://www.zybuluo.com/mdeditor#498633)
 
