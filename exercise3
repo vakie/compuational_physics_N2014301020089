@@ -1,0 +1,17 @@
+na_0= "#    ####   ####"
+na_1= "#    #      #   "
+na_2= "#    ####   ####"
+na_3= "#    #      #   "
+na_4= "#### ####   ####"
+
+
+import time
+import os
+
+for i in range(0,100):
+    print (i*' ' + na_0)
+    print (i*' ' + na_1)
+    print (i*' ' + na_2)
+    print (i*' ' + na_3)
+    print (i*' ' + na_4)
+    os.system('cls')
