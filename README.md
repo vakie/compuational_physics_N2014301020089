@@ -6,7 +6,7 @@ Exercice_01   [First attempt to Computational Physics](https://www.zybuluo.com/m
 
 Exercice_02   [Print your name ](https://github.com/vakie/homework1/blob/master/README.md)
 
-Exercice_03   [Move your name](https://github.com/vakie/compuational_physics_N2014301020089/blob/master/exercise03)
+Exercice_03   [Move your name](https://github.com/vakie/compuational_physics_N2014301020089/blob/master/exercise03.md)
 
 Exercice_04   [TBD](https://www.zybuluo.com/mdeditor#498633)
 
