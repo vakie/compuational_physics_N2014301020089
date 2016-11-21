@@ -18,7 +18,7 @@ Exercice_07   [problem3.12](https://github.com/vakie/compuational_physics_N20143
 
 Exercice_08   [TBD](https://www.zybuluo.com/mdeditor#498633)
 
-Exercice_09   [TBD](https://www.zybuluo.com/mdeditor#498633)
+Exercice_09   [problem3.31](https://github.com/vakie/compuational_physics_N2014301020089/blob/master/exercise09.md)
 
 Exercice_10   [TBD](https://www.zybuluo.com/mdeditor#498633)
 
