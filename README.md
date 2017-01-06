@@ -28,4 +28,4 @@ Exercice_12   [TBD](https://www.zybuluo.com/mdeditor#498633)
 
 Exercice_13   [TBD](https://www.zybuluo.com/mdeditor#498633)
 
-Exercice_14   [TBD](https://www.zybuluo.com/mdeditor#498633)
+Exercice_14   [期末作业](https://github.com/vakie/compuational_physics_N2014301020089/blob/master/exercis014.md)
